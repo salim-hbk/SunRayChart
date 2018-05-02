@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SunRayApp</string>
+
+    <string-array name="datset_labels">
+        <item>0</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+    </string-array>
+</resources>
